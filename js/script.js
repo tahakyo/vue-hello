@@ -8,7 +8,8 @@ const app = new Vue (
         el: '#root',
         // creo il messaggio nel data per poi passarlo nell'h1 in html
         data: {
-            message : 'hello world',
+            message : 'Big Dreams',
+            myImage : 'https://thumbs.dreamstime.com/b/money-dreams-original-idea-nice-40543089.jpg'
         },
     }
 );
